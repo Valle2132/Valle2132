@@ -15,12 +15,7 @@ Here are a few of my learning projects:
     <img alt="AdobePhotoshop" src="https://img.shields.io/badge/-AdobePhotoshop-informational?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white&amp;color=31A8FF">
 </p>
 
-- **Learned:** [Notable Features or Achievements]
-
-### [SecretProject] <!--(link-to-project)-->
-- **Description:** N/A
-- **Tech Stack:** N/A
-- **Learned:** N/A
+- **Learned:** collision detection, simple designs, C# in Godot
 
 <!--
 ### [Project](link-to-project)
