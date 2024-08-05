@@ -30,14 +30,7 @@ Here are a few of my learning projects:
 
 ### [HoneyPot](https://github.com/Valle2132/HoneyPot)
 - **Description:** A 2D platform defender, because no one wants bad honey.
-- **Tech Stack:** 
-<p>
-    <img alt="Dotnet" src="https://img.shields.io/badge/-Dotnet-informational?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white&amp;color=512BD4">
-    <img alt="Godot" src="https://img.shields.io/badge/-Godot-informational?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white&amp;color=478CBF">
-    <img alt="Git" src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;color=F05032">
-    <img alt="AdobePhotoshop" src="https://img.shields.io/badge/-AdobePhotoshop-informational?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white&amp;color=31A8FF">
-</p>
-
+- **Tech Stack:** Godot 4.2, C#, Git, Adobe Photoshop, FL Studio
 - **Learned:** collision detection, simple designs, C# in Godot
 
 <!--
